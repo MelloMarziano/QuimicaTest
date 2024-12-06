@@ -58088,7 +58088,7 @@ A.ly.prototype={
 U(a){return A.So(new A.TB(),null,A.ae1(),null,t.iu)}}
 A.TB.prototype={
 $1(a){var s=null
-return A.aat(A.f1(s,A.zV(A.a([A.e5("Practica de Quimica",A.d4(s,s,s,s,s,s,s,s,s,s,s,$.dt().ea(28),s,s,B.I,s,s,!0,s,s,s,s,s,s,s,s)),B.Gl,B.yk,A.rJ(s,A.f1(B.ax,A.e5("Iniciar Practica",A.d4(s,s,B.i,s,s,s,s,s,s,s,s,$.dt().ea(18),s,s,B.I,s,s,!0,s,s,s,s,s,s,s,s)),B.D,B.f3,s,s,60,s,s,1/0),B.ab,!1,s,s,s,s,s,s,s,s,s,s,s,s,new A.TA(),s,s,s)],t.R),B.ap,B.aE),B.D,B.i,s,s,1/0,s,B.fa,1/0))},
+return A.aat(A.f1(s,A.zV(A.a([A.e5("Practica de Quimica",A.d4(s,s,s,s,s,s,s,s,s,s,s,$.dt().ea(28),s,s,B.I,s,s,!0,s,s,s,s,s,s,s,s)),B.Gl,B.yk,A.rJ(s,A.f1(B.ax,A.e5("Iniciar Practica",A.d4(s,s,B.i,s,s,s,s,s,s,s,s,$.dt().ea(18),s,s,B.I,s,s,!0,s,s,s,s,s,s,s,s)),B.D,B.f3,s,s,100,s,s,1/0),B.ab,!1,s,s,s,s,s,s,s,s,s,s,s,s,new A.TA(),s,s,s)],t.R),B.ap,B.aE),B.D,B.i,s,s,1/0,s,B.fa,1/0))},
 $S:379}
 A.TA.prototype={
 $0(){A.Sz($.ba(),"/quizz",null,t.z)},
@@ -58112,7 +58112,7 @@ s=a.ax
 if(s>10&&s<15)s="\ud83e\udd73\ud83e\udd73"
 else s=s>15?"\ud83e\udd76":"\ud83d\udca9"
 r=t.R
-return A.aat(A.f1(q,A.zV(A.a([new A.mt(q),B.aT,p,B.aT,A.f1(q,A.zV(A.a([l,B.aT,m,B.aT,A.e5(s,A.d4(q,q,B.o,q,q,q,q,q,q,q,q,$.dt().ea(64),q,q,B.I,q,q,!0,q,q,q,q,q,q,q,q))],r),B.ap,B.fG),B.D,q,q,new A.dQ(B.i,q,q,n,q,q,B.b_),o.a.b*0.5,B.fb,B.fb,1/0),new A.mt(q),A.rJ(q,A.f1(B.ax,A.e5("Volver a incio",A.d4(q,q,B.i,q,q,q,q,q,q,q,q,$.dt().ea(18),q,q,B.I,q,q,!0,q,q,q,q,q,q,q,q)),B.D,B.f3,q,q,60,q,q,1/0),B.ab,!1,q,q,q,q,q,q,q,q,q,q,q,q,new A.Z3(),q,q,q)],r),B.ap,B.fG),B.D,B.iO,q,q,1/0,q,B.fa,1/0))},
+return A.aat(A.f1(q,A.zV(A.a([new A.mt(q),B.aT,p,B.aT,A.f1(q,A.zV(A.a([l,B.aT,m,B.aT,A.e5(s,A.d4(q,q,B.o,q,q,q,q,q,q,q,q,$.dt().ea(64),q,q,B.I,q,q,!0,q,q,q,q,q,q,q,q))],r),B.ap,B.fG),B.D,q,q,new A.dQ(B.i,q,q,n,q,q,B.b_),o.a.b*0.5,B.fb,B.fb,1/0),new A.mt(q),A.rJ(q,A.f1(B.ax,A.e5("Volver a incio",A.d4(q,q,B.i,q,q,q,q,q,q,q,q,$.dt().ea(18),q,q,B.I,q,q,!0,q,q,q,q,q,q,q,q)),B.D,B.f3,q,q,100,q,q,1/0),B.ab,!1,q,q,q,q,q,q,q,q,q,q,q,q,new A.Z3(),q,q,q)],r),B.ap,B.fG),B.D,B.iO,q,q,1/0,q,B.fa,1/0))},
 $S:381}
 A.Z3.prototype={
 $0(){A.Sz($.ba(),"/home",null,t.z)},
@@ -58145,7 +58145,7 @@ a0=A.k(J.aK(a6[a7.cx],"respuestaC"))
 a1=J.f(J.aK(a6[a7.cx],a5),"C")
 a2=a7.db
 a3=a2.length!==0?new A.ZD():new A.ZE(a7)
-q=A.f1(a4,A.zV(A.a([new A.jm(B.hT,a4,a4,new A.iE(B.dm,s,a4),a4),B.aT,r,B.aT,new A.iE(B.yg,p,a4),new A.iE(B.dm,new A.te(28,o,(n+1)/m,new A.q(4281745798),a4,new A.q0(new A.q(4285847232),t.be),a4,a4,a4),a4),B.ub,A.f1(a4,new A.Ev(A.zV(A.a([j,B.aT,i,B.ub,new A.oI("A. "+h,g,e,f==="A",a4),new A.oI("B. "+d,c,a,b==="B",a4),new A.oI("C. "+a0,a1,a3,a2==="C",a4),B.aT,new A.Fv(A.e5("Respuesta correcta: "+A.k(J.aK(a6[a7.cx],a5)),A.d4(a4,a4,B.Cu,a4,a4,a4,a4,a4,a4,a4,a4,a4,a4,a4,a4,a4,a4,!0,a4,a4,a4,a4,a4,a4,a4,a4)),a7.db.length!==0,a4)],q),B.b2,B.aE),a4),B.D,a4,a4,new A.dQ(B.i,a4,a4,k,a4,a4,B.b_),l.a.b*0.6,B.dm,B.fb,1/0),new A.mt(a4),A.rJ(a4,A.f1(B.ax,A.e5(a7.dx,A.d4(a4,a4,B.i,a4,a4,a4,a4,a4,a4,a4,a4,$.dt().ea(18),a4,a4,B.I,a4,a4,!0,a4,a4,a4,a4,a4,a4,a4,a4)),B.D,B.f3,a4,a4,60,a4,a4,1/0),B.ab,!1,a4,a4,a4,a4,a4,a4,a4,a4,a4,a4,a4,a4,new A.ZF(a7),a4,a4,a4)],q),B.ap,B.aE),B.D,B.iO,a4,a4,1/0,a4,B.fa,1/0)
+q=A.f1(a4,A.zV(A.a([new A.jm(B.hT,a4,a4,new A.iE(B.dm,s,a4),a4),B.aT,r,B.aT,new A.iE(B.yg,p,a4),new A.iE(B.dm,new A.te(28,o,(n+1)/m,new A.q(4281745798),a4,new A.q0(new A.q(4285847232),t.be),a4,a4,a4),a4),B.ub,A.f1(a4,new A.Ev(A.zV(A.a([j,B.aT,i,B.ub,new A.oI("A. "+h,g,e,f==="A",a4),new A.oI("B. "+d,c,a,b==="B",a4),new A.oI("C. "+a0,a1,a3,a2==="C",a4),B.aT,new A.Fv(A.e5("Respuesta correcta: "+A.k(J.aK(a6[a7.cx],a5)),A.d4(a4,a4,B.Cu,a4,a4,a4,a4,a4,a4,a4,a4,a4,a4,a4,a4,a4,a4,!0,a4,a4,a4,a4,a4,a4,a4,a4)),a7.db.length!==0,a4)],q),B.b2,B.aE),a4),B.D,a4,a4,new A.dQ(B.i,a4,a4,k,a4,a4,B.b_),l.a.b*0.6,B.dm,B.fb,1/0),new A.mt(a4),A.rJ(a4,A.f1(B.ax,A.e5(a7.dx,A.d4(a4,a4,B.i,a4,a4,a4,a4,a4,a4,a4,a4,$.dt().ea(18),a4,a4,B.I,a4,a4,!0,a4,a4,a4,a4,a4,a4,a4,a4)),B.D,B.f3,a4,a4,100,a4,a4,1/0),B.ab,!1,a4,a4,a4,a4,a4,a4,a4,a4,a4,a4,a4,a4,new A.ZF(a7),a4,a4,a4)],q),B.ap,B.aE),B.D,B.iO,a4,a4,1/0,a4,B.fa,1/0)
 a6=q}return A.aat(a6)},
 $S:382}
 A.Zy.prototype={
